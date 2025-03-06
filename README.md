@@ -5,11 +5,11 @@
 
 <div>
 ![Vipps pill button example](buttons/svg/english/vipps_pill_en.svg)
-![MobilePay pill button example](buttons/svg/english/mobilepay_pill_en.svg)
+![MobilePay rectangle example](buttons/svg/english/mobilepay_rect_en.svg)
 </div>
 <div>
-![Vipps rectangle button example](svg/english/vipps_rect_en.svg)
-![MobilePay rectangle example](svg/english/mobilepay_rect_en.svg)
+![MobilePay pill button example](buttons/svg/english/mobilepay_pill_en.svg)
+![Vipps rectangle button example](buttons/svg/english/vipps_rect_en.svg)
 </div>
 
 There are a lot of ways to receive donations as an independent free software contributor, such as Patreon, PayPal, Ko-fi, Buy Me a Coffee and Liberapay. This repository facilitates receiving donations the Nordic way: through Vipps and MobilePay.
