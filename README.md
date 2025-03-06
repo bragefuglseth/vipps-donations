@@ -36,6 +36,7 @@ By setting up donations with Vipps and MobilePay, you can:
 
 - Reduce friction for the 12 million possible donors who use Vipps or MobilePay, increasing their chance of donating
 - Utilize domestic solutions with Nordic ownership, which isn't that bad of an idea considering current global affairs
+- Receive donations even if you're under the age of 18 (the age limit is 15)
 - Earn some money! Who doesn't like that?
 
 ## Getting started
