@@ -16,7 +16,7 @@
 
 </div>
 
-There are a lot of ways to receive donations as an independent free software contributor, such as Patreon, PayPal, Ko-fi, Buy Me a Coffee and Liberapay. This repository facilitates receiving donations the Nordic way: through Vipps and MobilePay.
+There are a lot of ways to receive donations as an independent free software contributor, such as Patreon, PayPal, Ko-fi, Buy Me a Coffee and Liberapay. This repository facilitates receiving small-scale donations the Nordic way: through Vipps and MobilePay.
 
 ## Who can do this?
 
