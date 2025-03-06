@@ -42,7 +42,7 @@ By setting up donations with Vipps and MobilePay, you can:
 ## Getting started
 
 1. Set up a Vipps or MobilePay account for yourself if you haven't already. Choose the solution that's the most widespread in your country — Vipps in Norway and Sweden, and MobilePay in Denmark and Finland.
-2. In the Vipps or MobilePay app on your phone, create a new box ("kasse" in Norwegian, "lipas" in Finnish), and give it a suitable name (e.g. "Brages tipsglass" — Brage's tip jar). A box is, well, like a box, where people can put money. You can transfer the money in this box to your own account whenever you'd like to. A 19 NOK fee is collected from the box for every 1000 NOK that's put in it, but in exchange you get nice convenience features such as being able to see how much has been donated, and a shareable link.
+2. In the Vipps or MobilePay app on your phone, create a new box ("kasse" in Norwegian, "lipas" in Finnish), and give it a suitable name (e.g. "Brages tipsglass" — Brage's tip jar). A box is, well, like a box, where people can put money. You can transfer the money in this box to your own account whenever you'd like. A 19 NOK fee is collected from the box for every 1000 NOK that's put in it, but in exchange you get nice convenience features such as being able to see how much has been donated, and a shareable link.
 3. Link to the box anywhere you'd like: in your FUNDING.yml file, on your website, or in the README files of your projects.
 
 > [!TIP]
