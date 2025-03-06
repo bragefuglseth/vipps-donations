@@ -54,3 +54,5 @@ Vipps and MobilePay have created a nice set of buttons that can be used to highl
 It's safe to say that my inner perfectionist could not live with this. To enable usage of Vipps and MobilePay buttons in README files, this repository contains pure SVG versions of them in all supported languages, constructed using official assets and values.
 
 Grab the ones you'd like to use and use them as they are, just make sure to follow the relevant [design guidelines](https://developer.vippsmobilepay.com/docs/knowledge-base/design-guidelines/buttons/#design-guidelines). Oh, and if Vipps MobilePay ever adds a donate button to the official SVG kit, please use that instead.
+
+One final disclaimer: this way of collecting money is for private, individual use only. If your donation volume is large enough for it to legally qualify as a business, you'll need to register a business account.
